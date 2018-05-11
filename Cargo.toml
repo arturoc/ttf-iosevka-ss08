@@ -5,6 +5,7 @@ authors = ["Belleve Invis (belleve@typeof.net)"]
 license-file = "LICENSE.md"
 homepage = "https://github.com/be5invis/Iosevka"
 repository = "http://github.com/arturoc/ttf-iosevka-ss08"
+description = "Iosevka font as cargo crate for direct use from code"
 
 [dependencies]
 
